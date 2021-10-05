@@ -1,4 +1,4 @@
-package connectiondemo;
+package collectiondemo;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -14,7 +14,7 @@ import java.util.Iterator;
  *              next() 获取集合中下一个元素
  *
  */
-public class IteratorDemo {
+public class IteratorDemoMain {
     public static void main(String[] args) {
         Collection<String> collection=new ArrayList<>();
         collection.add("hello");

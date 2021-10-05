@@ -1,4 +1,4 @@
-package connectiondemo;
+package collectiondemo;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -25,7 +25,13 @@ import java.util.Collection;
  *          isEmpty() 判断集合是否为空
  *          toArray() 将集合转换成数组
  *          size() 集合中的元素
- *          iterator() 返回Iterator迭代器的实现类对象
+ *          iterator() 返回Iterator迭代器的实现类对象、
+ *      4.增强for循环：底层也是使用迭代器 ，使用for循环的格式，简化代码的书写，JDK1.5版本之后的
+ *          for(元素数据类型 变量：Collection集合 or Array数组){
+ *
+ *          }
+ *
+ *
  *
  */
 public class DemoMain {
@@ -56,5 +62,9 @@ public class DemoMain {
 
         conn.clear();//清空所有元素
         System.out.println(conn);
+
+        for (String s : conn) {//使用增强for进行循环遍历
+            System.out.println(s);
+        }
     }
 }
