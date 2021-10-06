@@ -20,6 +20,7 @@ import java.util.Collection;
  *              linkedset(有序集合)：底层是哈希+链表实现，无引索，不可重复，有序
  *      3.使用方法：
  *          add() 添加元素
+ *          get(index) 获取元素
  *          remove() 删除某个元素
  *          clear() 清空集合在所有的元素
  *          isEmpty() 判断集合是否为空
