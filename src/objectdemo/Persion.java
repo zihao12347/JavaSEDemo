@@ -52,7 +52,7 @@ public class Persion {
      */
     @Override
     public String toString() {
-        return "Persion{" +
+        return "Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';

@@ -1,4 +1,4 @@
-package listcollectiondemo;
+package list_setcollectiondemo;
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -50,10 +50,10 @@ public class SetCollDemoMain {
      *              所以在persion类在重写hashCode()和equals()方法
      */
     public static void testOne(){
-        HashSet<Persion> persions = new HashSet<>();
-        Persion p1 = new Persion("张三", 18);
-        Persion p2 = new Persion("张三", 18);
-        Persion p3 = new Persion("李四", 21);
+        HashSet<Person> persions = new HashSet<>();
+        Person p1 = new Person("张三", 18);
+        Person p2 = new Person("张三", 18);
+        Person p3 = new Person("李四", 21);
 
         System.out.println( p1.hashCode());
 

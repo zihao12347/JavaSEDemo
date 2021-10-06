@@ -1,6 +1,4 @@
-package listcollectiondemo;
-
-import java.util.Objects;
+package list_setcollectiondemo;
 
 /**
  *  哈希值：十进制的整数，由系统随机的给出的值（就是对象的地址，该地址是一个逻辑地址，不是实际地址值）
@@ -9,10 +7,10 @@ import java.util.Objects;
  */
 public class HashCodeDemoMain {
     public static void main(String[] args) {
-        Persion persion1 = new Persion();//persion普通类，默认继承Object类
+        Person persion1 = new Person();//persion普通类，默认继承Object类
         int hashCode1 = persion1.hashCode();//hashCode()方法，返回哈希值
         System.out.println(hashCode1);
-        Persion persion2 = new Persion();
+        Person persion2 = new Person();
         int hashCode2 = persion2.hashCode();
         System.out.println(hashCode2);
         System.out.println(persion1==persion2);
