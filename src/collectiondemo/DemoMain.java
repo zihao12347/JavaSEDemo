@@ -31,6 +31,8 @@ import java.util.Collection;
  *          for(元素数据类型 变量：Collection集合 or Array数组){
  *
  *          }
+ *      5.jdk9新特性：
+ *          of()方法，在list接口,set接口,map接口中新增的of()方法,一次性添加多个元素到集合中
  *
  *
  *
