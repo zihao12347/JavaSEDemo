@@ -1,4 +1,4 @@
-package functionalprogrammingdemo;
+package lambdademo;
 
 public class Person {
     private String name;

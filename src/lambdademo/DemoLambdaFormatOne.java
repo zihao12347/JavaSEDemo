@@ -1,4 +1,4 @@
-package functionalprogrammingdemo;
+package lambdademo;
 
 /**使用lambda无参无返回值的格式：
  * 需求：
