@@ -12,10 +12,10 @@ package threaddemo;
  *  创建多线程的两种方式：
  *      1.编写Thread线程类子类，重写run()方法，
  *          使用：实例化Thread线程类子类，调用start()方法开启线程
- *      2.1编写Runnable实现类，重写run()方法
+ *      2编写Runnable实现类，重写run()方法
  *          使用：实例化runnable实现类，通过Thread(Runnable target)类指定runnable对象 ，
  *          再调用start()方法
- *      2.2通过匿名内部类的方式实现线程的创建：简化代码
+ *      3.通过匿名内部类的方式实现线程的创建：简化代码
  *
  *  实现Runnable接口比继承Thread类的优势：
  *      1.避免了单继承的局限性
