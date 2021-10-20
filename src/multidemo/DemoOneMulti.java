@@ -20,8 +20,8 @@ package multidemo;
  *          向下转： 子类类名 变量名=(子类类名) 父类变量名称，强制转化
  *               只能调用子类重写方法，或者是子类特有方法
  *
- *      instanceof关键字：
- *          指出对象是否是特定类的一个实例
+ *      object o instanceof Class c关键字：
+ *          指出o对象是否是c特定类的一个实例
  */
 public class DemoOneMulti {
     public static void main(String[] args) {

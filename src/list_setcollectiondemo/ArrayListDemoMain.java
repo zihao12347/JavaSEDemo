@@ -13,6 +13,7 @@ import java.util.ArrayList;
  *          remove() 去除
  *          clear() 清空
  *          set() 重置
+ *          addAll() 在一个集合中添加一个集合
  */
 public class ArrayListDemoMain {
     public static void main(String[] args) {
@@ -23,5 +24,9 @@ public class ArrayListDemoMain {
         arrayList.set(1, "efgh");
         arrayList.remove("efgh");
         arrayList.clear();
+        ArrayList<String> arrayList2 = new ArrayList<>();
+        arrayList2.add("abcd");
+        arrayList2.add("efg");
+        arrayList.addAll(arrayList2);//addAll()方法添加一个集合
     }
 }
