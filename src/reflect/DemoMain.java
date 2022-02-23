@@ -3,6 +3,7 @@ package reflect;
 import objectdemo.Persion;
 import org.junit.Test;
 
+import javax.sound.midi.Soundbank;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -27,6 +28,11 @@ import java.util.stream.Collectors;
  *               多用于参数传递
  *          3.对象.getClass():getClass()方法在object类中定义着，
  *               多用于通过对象获取字节码文件
+ *    Class类的常用方法：
+ *          1.newInstance()方法，创建Class类对象
+ *          2.getClassLoader()方法，获取Class类的加载器
+ *
+ *
  *    结论：
  *          同一个字节码文件(*.class)，无论是通过那种方式获取到的class对象，都是相同的
  *    Class对象功能：
@@ -46,6 +52,7 @@ import java.util.stream.Collectors;
  *              Method getMethod(String name, 类<?>... parameterTypes)
  *              Method[] getDeclaredMethods()
  *              Method getDeclaredMethod(String name, 类<?>... parameterTypes)
+ *
  *          2.2操作构造方法
  *              newInstance(Object ...innitargs)使用有参构造方法创建对象
  *              new Instance()使用无参构造方法创建对象
@@ -53,9 +60,16 @@ import java.util.stream.Collectors;
  *          3.获取成员方法:
  *              getMethods()：获取public成员方法
  *              getDeclaredMethods():获取任意访问修饰符的方法
- *          4.获取类名：
+ *          3.2操作方法：
  *              invoke()执行方法
  *              getName()：获取类名
+ *
+ *      反射创建对象：使用反射动态创建类的对象，通过调用一个构造方法实现。
+ *          1.无参构造方法：
+ *                  通过class对象，调用newInstance()方法直接创建一个对象
+ *          2.有参构造方法：
+ *                  1).先获取Class对象的构造方法实例，
+ *                  2).再通过获取到的构造方法实例，调用newInstance(...)创建实例
  *
  *
  *
@@ -79,7 +93,18 @@ public class DemoMain {
         try {
             Class clas1 = Class.forName("reflect.Person");
             System.out.println(clas1);
+            String name = clas1.getName();
+            System.out.println(name);
+            ClassLoader classLoader = clas1.getClassLoader();
+            System.out.println(classLoader);
+            Person instance =(Person) clas1.newInstance();
+            instance.setName("梓浩");
+            System.out.println(instance);
         } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InstantiationException e) {
             e.printStackTrace();
         }
         //通过类名.class方式获取Class对象

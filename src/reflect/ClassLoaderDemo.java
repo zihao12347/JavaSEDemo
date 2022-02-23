@@ -8,7 +8,7 @@ import java.util.Properties;
  * 类加载器:将.class文件加载到内存中，返回class对象
  *      ClassLoader类加载器中的方法：
  *          1.getSystemClassLoader()获取系统类加载器
- *          2.getResourceAsStream()加载某一个资源文件,作为输入字节流返回
+ *          2.getResourceAsStream()通过类加载器，返回指定资源的字节输入流
  *          3.getParent()返回父类加载器
  *
  *
