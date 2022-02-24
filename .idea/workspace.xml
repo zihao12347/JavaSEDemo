@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37c97462-8601-44a4-80a6-a2b91036e9f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/SexEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestAbstracMetEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestConstrEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestEnumMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumdemo/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectiondemo/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectiondemo/DemoMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../Server/java-jdk/jdk8/src.zip!/java/util/concurrent/CountDownLatch.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../Server/java-jdk/jdk8/src.zip!/java/util/concurrent/CyclicBarrier.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../Server/java-jdk/jdk8/src.zip!/java/lang/Thread.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../Server/java-jdk/jdk8/src.zip!/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/threaddemo/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/ThreadSleepDemo.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/MyRunable.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/treadsafe/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/treadsafe/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/threadcommunication/WaitAndNotifyDemo.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/TimeWaitingDemo.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/WaitAndNotifyDemo.java" />
+        <option value="$PROJECT_DIR$/src/threaddemo/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/Cook.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/DemoInvokeCood.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/Person.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/DemoLambaFormatTwo.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/FunctionalInterface.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/logdemo/DemoLogger.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/logdemo/MessageBuilder.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/logdemo/DemoLambda.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/lambdaasArgOrPar.java" />
+        <option value="$PROJECT_DIR$/src/lambdademo/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/lambdaAsArgOrPar.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/SupplierDemo.java" />
+        <option value="$PROJECT_DIR$/src/interfacedemo/MyInterfaceAbstractImpl.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/Test.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/FunctionDemo.java" />
+        <option value="$PROJECT_DIR$/src/streamdemo/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/list_setcollectiondemo/ArrayListDemoMain.java" />
+        <option value="$PROJECT_DIR$/src/streamdemo/Person.java" />
+        <option value="$PROJECT_DIR$/src/streamdemo/DemoArrayListNames.java" />
+        <option value="$PROJECT_DIR$/src/streamdemo/MethodReference/Printable.java" />
+        <option value="$PROJECT_DIR$/src/streamdemo/MethodReference/DemoPrintable.java" />
+        <option value="$PROJECT_DIR$/src/multidemo/DemoOneMulti.java" />
+        <option value="$PROJECT_DIR$/src/reflect/Person.java" />
+        <option value="$PROJECT_DIR$/src/reflect/task/Student.java" />
+        <option value="$PROJECT_DIR$/src/mapcollectiondemo/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/mapcollectiondemo/PropertiesDemoMain.java" />
+        <option value="$PROJECT_DIR$/src/reflect/task/test.properties" />
+        <option value="$PROJECT_DIR$/src/reflect/task/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/src/transaction/CommitModes.java" />
+        <option value="$PROJECT_DIR$/src/interfacedemo/MyInterfaceAbstract.java" />
+        <option value="$PROJECT_DIR$/src/transaction/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/collectiondemo/GenericWildcard.java" />
+        <option value="$PROJECT_DIR$/src/functionalprogrammingdemo/PredicateDemo.java" />
+        <option value="$PROJECT_DIR$/src/innerclass/Demo1InnerClass.java" />
+        <option value="$PROJECT_DIR$/src/extendsdemo/Demo01Extends.java" />
+        <option value="$PROJECT_DIR$/src/reflect/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/reflect/ClassLoaderDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven" />
+        <option name="userSettingsFile" value="D:\develop\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="50" />
+    <option name="width" value="1390" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectId" id="20uocMo5e3JLZXnQHCf17Unkrs6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javasedemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javasedemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javasedemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javasedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javasedemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javasedemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interfacedemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowHierarchy.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636528231699" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../heima-ssm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15708812" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\javasedemo\src\reflect" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestEnumMap">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumdemo.A" />
+      <module name="javaSEdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbstracMetEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumdemo.TestAbstracMetEnum" />
+      <module name="javaSEdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConstrEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumdemo.TestConstrEnum" />
+      <module name="javaSEdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumdemo.TestEnum" />
+      <module name="javaSEdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEnumMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumdemo.TestEnumMap" />
+      <module name="javaSEdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestEnumMap" />
+        <item itemvalue="Application.TestAbstracMetEnum" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.TestConstrEnum" />
+        <item itemvalue="Application.TestEnum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c97462-8601-44a4-80a6-a2b91036e9f9" name="Default Changelist" comment="" />
+      <created>1632904449753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632904449753</updated>
+      <workItem from="1632904451326" duration="254000" />
+      <workItem from="1632904840405" duration="11449000" />
+      <workItem from="1632974898397" duration="593000" />
+      <workItem from="1632975662735" duration="959000" />
+      <workItem from="1632984335100" duration="23797000" />
+      <workItem from="1633266162104" duration="109782000" />
+      <workItem from="1634022510264" duration="699000" />
+      <workItem from="1634028695399" duration="4768000" />
+      <workItem from="1634047123338" duration="2165000" />
+      <workItem from="1634051428454" duration="10267000" />
+      <workItem from="1634537787568" duration="7213000" />
+      <workItem from="1634605120078" duration="595000" />
+      <workItem from="1634607121832" duration="8131000" />
+      <workItem from="1634727097105" duration="262000" />
+      <workItem from="1634733837030" duration="3060000" />
+      <workItem from="1634876933761" duration="99000" />
+      <workItem from="1634992500485" duration="2832000" />
+      <workItem from="1635062867771" duration="528000" />
+      <workItem from="1635064528595" duration="1949000" />
+      <workItem from="1635250588438" duration="766000" />
+      <workItem from="1635347363785" duration="119000" />
+      <workItem from="1635738919312" duration="54000" />
+      <workItem from="1635741234918" duration="750000" />
+      <workItem from="1635869519575" duration="824000" />
+      <workItem from="1635873177281" duration="189000" />
+      <workItem from="1635908511157" duration="1033000" />
+      <workItem from="1635923553828" duration="690000" />
+      <workItem from="1635927791401" duration="330000" />
+      <workItem from="1635953426501" duration="390000" />
+      <workItem from="1636009320248" duration="508000" />
+      <workItem from="1636010936604" duration="678000" />
+      <workItem from="1636014209407" duration="725000" />
+      <workItem from="1636175081656" duration="630000" />
+      <workItem from="1636526920137" duration="793000" />
+      <workItem from="1636903924769" duration="1467000" />
+      <workItem from="1636963038487" duration="222000" />
+      <workItem from="1637029546211" duration="260000" />
+      <workItem from="1637301823363" duration="1435000" />
+      <workItem from="1639532986283" duration="1499000" />
+      <workItem from="1639539769995" duration="928000" />
+      <workItem from="1640833188335" duration="13004000" />
+      <workItem from="1640921329412" duration="7019000" />
+      <workItem from="1641778851172" duration="5357000" />
+      <workItem from="1641870381614" duration="7452000" />
+      <workItem from="1641884766471" duration="3201000" />
+      <workItem from="1645102595256" duration="55000" />
+      <workItem from="1645102663927" duration="629000" />
+      <workItem from="1645525052558" duration="14146000" />
+      <workItem from="1645610954185" duration="5253000" />
+    </task>
+    <task id="LOCAL-00001" summary="javaSE基础复习 2021/10/4 22：06">
+      <created>1633356392119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633356392119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="javaSE基础复习 2021/10/5 21:15">
+      <created>1633439752415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633439752415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="javaSE基础复习 2021/10/6 21:15">
+      <created>1633526126939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633526126939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="javaSE基础复习 2021/10/6 22:20">
+      <created>1633530052036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633530052036</updated>
+    </task>
+    <task id="LOCAL-00005" summary="javaSE基础复习 2021/10/9 6:25">
+      <created>1633731959917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633731959918</updated>
+    </task>
+    <task id="LOCAL-00006" summary="javaSE基础复习 2021/10/9 8:49">
+      <created>1633740549739</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633740549739</updated>
+    </task>
+    <task id="LOCAL-00007" summary="javaSE基础复习 2021/10/9 15:59">
+      <created>1633766401759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633766401759</updated>
+    </task>
+    <task id="LOCAL-00008" summary="javaSE基础复习 2021/10/9 23:59">
+      <created>1633795184967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633795184968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="javaSE基础复习 2021/10/10 21:46">
+      <created>1633873573561</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633873573561</updated>
+    </task>
+    <task id="LOCAL-00010" summary="javaSE基础复习 2021/10/20 20:44">
+      <created>1634733857433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634733857434</updated>
+    </task>
+    <task id="LOCAL-00011" summary="javaSE基础复习 2022/02/23">
+      <created>1645602793352</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645602793352</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PropertiesDemoMain_testPropertiesMehthod - 2021.10.13 at 16h 53m 19s.xml">
+      <configuration name="PropertiesDemoMain.testPropertiesMehthod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testPropertiesMehthod - 2021.10.13 at 16h 54m 30s.xml">
+      <configuration name="PropertiesDemoMain.testPropertiesMehthod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testStore - 2021.10.18 at 14h 43m 00s.xml">
+      <configuration name="PropertiesDemoMain.testStore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testStore - 2021.10.18 at 14h 43m 47s.xml">
+      <configuration name="PropertiesDemoMain.testStore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testStore - 2021.10.18 at 14h 44m 35s.xml">
+      <configuration name="PropertiesDemoMain.testStore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testStore - 2021.10.18 at 14h 46m 08s.xml">
+      <configuration name="PropertiesDemoMain.testStore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testread - 2021.10.18 at 14h 57m 36s.xml">
+      <configuration name="PropertiesDemoMain.testread" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testread - 2021.10.18 at 14h 58m 15s.xml">
+      <configuration name="PropertiesDemoMain.testread" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoMain_testGetClass - 2021.10.23 at 21h 08m 15s.xml">
+      <configuration name="DemoMain.testGetClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesDemoMain_testread - 2021.11.04 at 15h 30m 17s.xml">
+      <configuration name="PropertiesDemoMain.testread" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="197881000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50680274" side_tool="true" weight="0.2813765" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.64220184" side_tool="true" weight="0.27192983" />
+      <window_info id="Web" order="6" sideWeight="0.50152904" side_tool="true" weight="0.33535764" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.35779816" visible="true" weight="0.3636977" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2584098" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5026991" side_tool="true" weight="0.62538224" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="4" sideWeight="0.49730095" weight="0.50764525" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.559633" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32874617" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.49847096" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.38073394" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.5764526" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3299595" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.29554656" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24928977" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.42307693" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3299595" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50680274" side_tool="true" weight="0.2813765" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.64220184" side_tool="true" weight="0.27192983" />
+      <window_info id="Web" order="6" sideWeight="0.50152904" side_tool="true" weight="0.33535764" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.35779816" visible="true" weight="0.35762483" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2584098" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5026991" side_tool="true" weight="0.62538224" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="4" sideWeight="0.49730095" weight="0.50764525" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.559633" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32874617" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.49847096" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.38073394" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.5764526" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3299595" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.29554656" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24928977" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.42307693" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3299595" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaSE基础复习 2021/10/4 22：06" />
+    <MESSAGE value="javaSE基础复习 2021/10/5 21:15" />
+    <MESSAGE value="javaSE基础复习 2021/10/6 21:15" />
+    <MESSAGE value="javaSE基础复习 2021/10/6 22:20" />
+    <MESSAGE value="javaSE基础复习 2021/10/9 6:25" />
+    <MESSAGE value="javaSE基础复习 2021/10/9 8:49" />
+    <MESSAGE value="javaSE基础复习 2021/10/9 15:59" />
+    <MESSAGE value="javaSE基础复习 2021/10/9 23:59" />
+    <MESSAGE value="javaSE基础复习 2021/10/10 21:46" />
+    <MESSAGE value="javaSE基础复习 2021/10/20 20:44" />
+    <MESSAGE value="javaSE基础复习 2022/02/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaSE基础复习 2022/02/23" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/stream/Stream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/reflect/Field.java" />
+    <entry file="file://$PROJECT_DIR$/src/abstractdemo/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anonymousdemo/Anonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anonymousdemo/AnonymousTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfacedemo/MyInterfaceAbstractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfacedemo/MyInterfaceAbstractImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list_setcollectiondemo/ArrayListDemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/Properties.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/Hashtable.java" />
+    <entry file="file://$PROJECT_DIR$/src/mapcollectiondemo/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/task/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapcollectiondemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/classloadtest.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/task/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/task/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/FunctionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/lambdaAsArgOrPar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/logdemo/DemoLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/logdemo/DemoLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/SupplierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datedemo/DateMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractdemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anonymousinnerclassdemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectiondemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructuredemo/MainDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finaldemo/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multidemo/DemoOneMulti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectiondemo/GenericWildcard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerclass/Demo1InnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/PredicateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsdemo/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsdemo/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsdemo/Demo01Extends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/DemoLambdaFormatOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/DemoLambaFormatTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdademo/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functionalprogrammingdemo/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapcollectiondemo/PropertiesDemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="docComment;method#testPropertisasCol#0;class#PropertiesDemoMain#0" />
+            <element signature="method#testPropertiesMehthod#0;class#PropertiesDemoMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamdemo/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/transaction/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="32" selection-start-line="28" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfacedemo/MyInterfaceAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaSEdemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
