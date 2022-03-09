@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37c97462-8601-44a4-80a6-a2b91036e9f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/SexEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestAbstracMetEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestConstrEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TestEnumMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumdemo/TrafficLight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectiondemo/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectiondemo/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,19 +256,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestEnumMap" />
@@ -345,7 +325,8 @@
       <workItem from="1645102595256" duration="55000" />
       <workItem from="1645102663927" duration="629000" />
       <workItem from="1645525052558" duration="14146000" />
-      <workItem from="1645610954185" duration="5253000" />
+      <workItem from="1645610954185" duration="6728000" />
+      <workItem from="1646019440124" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="javaSE基础复习 2021/10/4 22：06">
       <created>1633356392119</created>
