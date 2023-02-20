@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * List集合：
  *      特点：有序(元素存储和取出顺序一致),有索引，可重复，
  *      类别：
- *      ArrayList: 底层是数组实现，查询快，增删慢。
+ *      ArrayList: 底层是可变数组实现，查询快，增删慢。
 
  *          add() 新增
  *          get() 获取
